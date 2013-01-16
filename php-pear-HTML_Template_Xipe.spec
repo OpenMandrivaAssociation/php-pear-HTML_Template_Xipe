@@ -2,8 +2,6 @@
 %define		_subclass	Template
 %define		upstream_name	%{_class}_%{_subclass}_Xipe
 
-%define		_requires_exceptions pear())
-
 Name:		php-pear-%{upstream_name}
 Version:	1.7.6
 Release:	%mkrel 15

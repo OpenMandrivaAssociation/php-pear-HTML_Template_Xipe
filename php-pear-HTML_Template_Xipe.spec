@@ -5,7 +5,7 @@
 Summary:	A simple, fast and powerful template engine
 Name:		php-pear-%{modname}
 Version:	1.7.6
-Release:	16
+Release:	17
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/HTML_Template_Xipe/	

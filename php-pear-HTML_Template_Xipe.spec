@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.7.6
-Release:	16
+Release:	17
 Summary:	A simple, fast and powerful template engine
 License:	PHP License
 Group:		Development/PHP

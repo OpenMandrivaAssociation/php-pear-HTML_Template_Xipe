@@ -8,7 +8,7 @@ Version:	1.7.6
 Release:	25
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/HTML_Template_Xipe/	
+Url:		https://pear.php.net/package/HTML_Template_Xipe/	
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	php-pear
